@@ -1,5 +1,4 @@
- <img align="center" width="200" src="https://" />
-
+ <img align="center" width="200" src="./images/fotogithub.jpg>
 ### Hi, I'm Suelen Galhardo  👋👩🏼‍💻
 
 I'm Junior Front-end developer , in September 2022, decided to embrace an exciting career change. What started as a search for knowledge in the world of programming, became my passion and a developing career.
