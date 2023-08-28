@@ -1,5 +1,6 @@
 ### Hi, I'm Suelen Galhardo  👋👩🏼‍💻
-
+🚀Passionate about evolution and continuous learning 🚀
+I'm Junior Front-end developer , in September 2022, decided to embrace an exciting career change. What started as a search for knowledge in the world of programming, became my passion and a developing career.
 
 ```js
 const Sue = {
