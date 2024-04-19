@@ -7,7 +7,7 @@ I'm Junior Front-end developer that in September 2022 decided to embrace an exci
 const Sue = {
   pronouns: "she",
   code: [Javascript, Typescript, HTML, CSS3, APIs, ],
-  tools: [React Native,React.js, Node.js,Frameworks de JavaScript,Lenguaje SASS,Bootstrap (Framework),Agile Methodologies,JSON ],
+  tools: [React.js, Node.js,Frameworks de JavaScript,Lenguaje SASS,Bootstrap (Framework),Agile Methodologies,JSON ],
 passions: ['perfomace web', 'web developmente']
  }
 ```
