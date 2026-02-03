@@ -8,7 +8,7 @@ const Sue = {
   pronouns: "she",
   code: [Javascript, Typescript, HTML, CSS3, APIs, ],
   tools: [React.js, Node.js,Frameworks de JavaScript,Lenguaje SASS,Bootstrap (Framework),Agile Methodologies,JSON ],
-passions: ['perfomace web', 'web developmente']
+  passions: ['perfomace web', 'web developmente']
  }
 ```
 You can find me 🌍: 
